@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a design portfolio](https://github.com/JasonF222/DesignPortfolio)
 
-- 🌱 I’m currently learning **Chakra UI**
+- 🌱 I’m currently learning **WordPress & TypeScript**
 
 - 🤝 I’m looking for help with **building a app to help the trucking community.**
 
