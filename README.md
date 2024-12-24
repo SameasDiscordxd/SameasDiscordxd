@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameasdiscordxd" alt="sameasdiscordxd" /></a> </p>
 
-- 🔭 I’m currently working on [a design portfolio](https://github.com/JasonF222/DesignPortfolio)
-
-- 🌱 I’m currently learning **WordPress & TypeScript**
-
 - 🤝 I’m looking for help with **building a app to help the trucking community.**
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **joshua.sartin.js@gmail.com**
 
